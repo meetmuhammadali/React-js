@@ -1,5 +1,5 @@
-Multi-Faq-Slection
+<h1>Multi-Faq-Slection</h1>
 
-"Discover the essential questions that often arise in React.js interviews. Elevate your preparation to confidently tackle any technical challenge. Start mastering React.js today and unlock your potential!"
+<strong>"Discover the essential questions that often arise in React.js interviews. Elevate your preparation to confidently tackle any technical challenge. Start mastering React.js today and unlock your potential!"
 
-"Locate all code files within the 'src' folder effortlessly."
+"Locate all code files within the 'src' folder effortlessly."</strong>
